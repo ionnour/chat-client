@@ -1,5 +1,5 @@
-# mern-shop
-E-shop build on MERN stack.
+# chat app
+Chat app with react and socket.io.
 [Check out the deployed site](https://chat-react-in.netlify.app/)
 
 ## Core Packages
